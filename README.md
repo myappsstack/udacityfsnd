@@ -2,6 +2,10 @@ MYAPPPS.STACK
 
 Project movies
 
+* LITLE CONFIGURATION!
+  a) Need create a folder called (images)
+  b) Need put all (.jpg) file inside this folder
+
 1) To RUN
 
    * In first fie (start.py) there are a call to (python)
